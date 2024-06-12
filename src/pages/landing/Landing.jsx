@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import './Landing.css'
 import { Link, Outlet } from 'react-router-dom'
 
-
-
 const Landing = () => {
 
   const [showSignup, setShowSignup] = useState(true)
