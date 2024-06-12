@@ -14,7 +14,7 @@ const Landing = () => {
   return (
     <div className='landing_div'>
       <div className="image_div">
-        <img src='https://i.postimg.cc/3w2rYVRM/Untitled-design.pngg' alt="" />
+        <img src='https://cdni.iconscout.com/illustration/premium/thumb/welcome-board-3688623-3231454.png' alt="" />
       </div>
       <div className="signup_login">
         <Outlet />
